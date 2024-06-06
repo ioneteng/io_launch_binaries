@@ -33,45 +33,28 @@ $IO is a token built on the Solana network. It is absolutely not for sale on Web
 6- If your token arrives and you are whitelisted, you will have the right to buy more with $SOL token. You can purchase up to 100 SOL.
 
 
+## Pre-Sale Detailied
 
-##### Latest Version: 2.0.6
-##### Oldest Supported Version: 2.0.1 (versions older than this are deprecated)
+### ioNET - $IO
 
-This repository contains official binaries for the io.net - Follow the instructions below to set up and run the binaries on your respective operating system.
-
-## Prerequisites
-
-### For Linux
-- Docker
-- Nvidia drivers (In case of GPU Worker) (running io-setup will automatically install this if needed)
-- Nvidia container toolkit (In case of GPU Worker) (running io-setup will automatically install this if needed)
-
-### For Mac
-- Docker Desktop
-    - [Download Docker Desktop for Mac](https://www.docker.com/products/docker-desktop/) - choose the mac - apple chip version for download
-
-## Installation
-
-### Linux
-
-1. **Perform IO-Setup (one time for hardware)** (skip if docker and Nvidia drivers are already installed and configured)
-    - Download the setup script:
+1. **Pre-Sale Price
+    - IO/USDT
       ```
-      curl -L https://github.com/ionet-official/io-net-official-setup-script/raw/main/ionet-setup.sh -o ionet-setup.sh
+      0.05$
       ```
-    - Run the script:
+    - Total Supply
       ```
-      chmod +x ionet-setup.sh && ./ionet-setup.sh
+      800.000.000
       ```
-   ##### Note - incase curl command fails:
-    - Install `curl`:
+   ##### Decimals
+    - SOL `6`:
          ```
-         sudo apt install curl
+         SPL Tokens- Solana Network - Only Phantom Pre-Sale
          ```
 
-2. **For systems with GPUs**
-    - Wait for a restart.
-    - After restart, rerun the setup again with the command above.
+2. **For JUP**
+    - Now Start.
+    - Will list Binance!
 
 ### Start the containers using binary
 
