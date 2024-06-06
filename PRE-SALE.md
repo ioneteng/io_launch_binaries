@@ -1,5 +1,9 @@
 # IO-Net Official Binaries
 
+----------------------------------------------------
+$IO is a token built on the Solana network. It is absolutely not for sale on Web3 or other platforms.
+----------------------------------------------------
+
 <img src="https://dropsearn.fra1.cdn.digitaloceanspaces.com/static/projects/screenshots/io.net-Info.webp" width="600" />
 
 <img src="https://dropsearn.fra1.cdn.digitaloceanspaces.com/static/projects/screenshots/io.net-Info-2.webp" width="600" />
