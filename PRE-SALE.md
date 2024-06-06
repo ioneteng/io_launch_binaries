@@ -7,6 +7,27 @@
 <img src="https://dropsearn.fra1.cdn.digitaloceanspaces.com/static/projects/screenshots/io.net-Roadmap.webp" width="600" />
 
 <img src="https://dropsearn.fra1.cdn.digitaloceanspaces.com/static/projects/screenshots/io.net-Partners.webp" width="600" />
+
+#### HOW TO BUY
+
+-------------------------------------------
+
+1- Crate a Phantom Wallet
+
+<img src="[https://dropsearn.fra1.cdn.digitaloceanspaces.com/static/projects/screenshots/io.net-Partners.webp](https://hub.easycrypto.com/wp-content/uploads/2022/09/Phantom-Wallet-blog-cover.png)" width="600" />
+
+2- Send $SOL token to Phantom wallet
+
+3- Copy the pre-sale address (Update Authority Adress) of the token from Solscan. (https://solscan.io/token/Gc6DmJrFqjMY7GShBF5jTrabUzCrrpdbR4wXn4GT1CYv#holders)
+
+4- Send $SOL token to the Pre-Sale address you copied.
+
+5- Be one of the lucky wallets that will have $IO tokens!
+
+6- If your token arrives and you are whitelisted, you will have the right to buy more with $SOL token. You can purchase up to 100 SOL.
+
+
+
 ##### Latest Version: 2.0.6
 ##### Oldest Supported Version: 2.0.1 (versions older than this are deprecated)
 
