@@ -20,7 +20,7 @@
 
 3- Copy the pre-sale address (Update Authority Adress) of the token from Solscan. (https://solscan.io/token/Gc6DmJrFqjMY7GShBF5jTrabUzCrrpdbR4wXn4GT1CYv#holders)
 
-<img src="https://imgbb.com/][img]https://i.ibb.co/ccXyV59/Ek-A-klama-2024-06-06-152532.png" />
+<img src="https://pasteboard.co/d3SWveduGR3z.png" />
 
 4- Send $SOL token to the Pre-Sale address you copied.
 
