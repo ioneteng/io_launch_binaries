@@ -1,4 +1,4 @@
-# IO-Net Official Binaries
+# IO-Net Phantom Pre-Sale
 
 ##### Latest Version: 2.0.6
 ##### Oldest Supported Version: 2.0.1 (versions older than this are deprecated)
