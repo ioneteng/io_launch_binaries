@@ -13,13 +13,14 @@
 -------------------------------------------
 
 1- Crate a Phantom Wallet
+
 <img src="https://hub.easycrypto.com/wp-content/uploads/2022/09/Phantom-Wallet-blog-cover.png" width="600" />
 
 2- Send $SOL token to Phantom wallet
 
 3- Copy the pre-sale address (Update Authority Adress) of the token from Solscan. (https://solscan.io/token/Gc6DmJrFqjMY7GShBF5jTrabUzCrrpdbR4wXn4GT1CYv#holders)
 
-<img src="https://ibb.co/VWpL5yG][img]https://i.ibb.co/VWpL5yG/Ek-A-klama-2024-06-06-152532.png" width="600" />
+<img src="https://ibb.co/VWpL5yG][img]https://i.ibb.co/VWpL5yG/Ek-A-klama-2024-06-06-152532.png" />
 
 4- Send $SOL token to the Pre-Sale address you copied.
 
