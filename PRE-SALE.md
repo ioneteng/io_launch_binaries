@@ -14,7 +14,7 @@
 
 1- Crate a Phantom Wallet
 
-<img src="[https://dropsearn.fra1.cdn.digitaloceanspaces.com/static/projects/screenshots/io.net-Partners.webp](https://hub.easycrypto.com/wp-content/uploads/2022/09/Phantom-Wallet-blog-cover.png)" width="600" />
+<img src="(https://hub.easycrypto.com/wp-content/uploads/2022/09/Phantom-Wallet-blog-cover.png)" width="600" />
 
 2- Send $SOL token to Phantom wallet
 
